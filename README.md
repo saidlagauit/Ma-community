@@ -14,6 +14,3 @@ To use the application, navigate to the index.php file in your web browser. From
 
 ### Contributing
 If you would like to contribute to the development of this application, please fork the repository and submit a pull request with your changes.
-
-### License
-This application is licensed under the MIT License. See the LICENSE file for more information
