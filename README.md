@@ -1,4 +1,4 @@
-# Sign-Up Sheet Web Application
+# Sign-Up Sheet Web Application Demo
 This is a simple web application that allows users to sign up for an event. The application was built using PHP and MySQL, and it uses the Bootstrap framework for styling.
 
 ### Features
